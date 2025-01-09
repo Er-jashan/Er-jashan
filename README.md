@@ -1,6 +1,6 @@
 - Hey, I’m @Er-jashan
-- 👀 I’m interested in CyberSecuirty and web developemnt.
-- 🌱 I’m currently learning Web development
+- 👀 interested in CyberSecuirty and web developemnt.
+- 🌱 I’m currently learning DSA
 
 
 <!---
